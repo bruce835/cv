@@ -1,0 +1,26 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Indie Flower', cursive;
+}
+
+.Robin-Wells {
+  border-radius: 200px;
+}
